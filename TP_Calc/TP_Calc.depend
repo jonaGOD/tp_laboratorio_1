@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553708928 source:c:\users\ea0868\desktop\utn\tp calc\tp_calc\tp_calc.c
+
+1553709007 source:c:\users\ea0868\desktop\utn\tp calc\tp_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"TP_Calc.h"
+
+1553708928 c:\users\ea0868\desktop\utn\tp calc\tp_calc\tp_calc.h
+
+1553709007 source:c:\users\jona\desktop\utn\programacion_1_laboratorio_1\tp calc\tp_calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"TP_Calc.h"
+
+1554418533 c:\users\jona\desktop\utn\programacion_1_laboratorio_1\tp calc\tp_calc\tp_calc.h
+
+1554418533 source:c:\users\jona\desktop\utn\programacion_1_laboratorio_1\tp calc\tp_calc\tp_calc.c
+
